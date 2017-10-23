@@ -1,0 +1,5 @@
+/Users/peymanghazvini/Projects/minimumNumber/minimumNumber/bin/Debug/minimumNumber.exe
+/Users/peymanghazvini/Projects/minimumNumber/minimumNumber/bin/Debug/minimumNumber.pdb
+/Users/peymanghazvini/Projects/minimumNumber/minimumNumber/obj/x86/Debug/minimumNumber.csproj.CoreCompileInputs.cache
+/Users/peymanghazvini/Projects/minimumNumber/minimumNumber/obj/x86/Debug/minimumNumber.exe
+/Users/peymanghazvini/Projects/minimumNumber/minimumNumber/obj/x86/Debug/minimumNumber.pdb
